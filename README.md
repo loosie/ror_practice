@@ -1,24 +1,26 @@
-# README
+# Ruby on Rails Blog
+- using ruby, sqlite
+  
+<br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## File/Folder	Purpose
+- [check](https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application)
 
-Things you may want to cover:
 
-* Ruby version
+<br>
 
-* System dependencies
+## MVC and You
+- [generate model](https://guides.rubyonrails.org/getting_started.html#mvc-and-you-generating-a-model)
+- [db migration](https://guides.rubyonrails.org/getting_started.html#database-migrations)
+- [model to interact with the db](https://guides.rubyonrails.org/getting_started.html#using-a-model-to-interact-with-the-database)
 
-* Configuration
 
-* Database creation
+<br>
 
-* Database initialization
+## API
+- article CRUD
+- comment CRUD
 
-* How to run the test suite
+---
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ref: https://guides.rubyonrails.org/getting_started.html
